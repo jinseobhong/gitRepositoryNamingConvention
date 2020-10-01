@@ -27,13 +27,14 @@
 [개발 환경(Development enviroment)](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
 
 |이름	|종류|
-|angular|Framework|
-|cpp|language|
-|dotnet|Framework|
-|java|language|
-|javascript|Framework|
-|nodejs|	Framework|
-|windows|Operating System|
+|angular||
+|cpp||
+|dotnet||
+|java||
+|javascript||
+|nodejs||
+|windows||
+| ...|그 외 개발 환경 잘 설명하는 단어|
 
 ### 용도(Purpose)
 
@@ -41,7 +42,7 @@
 
 [용도(Purpose)](https://docs.google.com/spreadsheets/d/14wVUWpTwmrm8KP6_1y41gWszT3BQvnHFi5rVdNN7NqY/edit?usp=sharing)
 
-| 용도(Purpose) | 설명(description)   |
+| 이름(Name) | 설명(Description)   |
 | --- | --- |
 |cli||
 |client||
