@@ -40,3 +40,20 @@
 이 Keyword는 프로젝트가 어떠한 용도로 사용되는 지를 나타내는 Keyword입니다.
 
 [용도(Purpose)](https://docs.google.com/spreadsheets/d/14wVUWpTwmrm8KP6_1y41gWszT3BQvnHFi5rVdNN7NqY/edit?usp=sharing)
+
+| 용도(Purpose) | 설명(description)   |
+| --- | --- |
+|cli||
+|client||
+|core||
+|documents|
+|extention||
+|gui||
+|interface||
+|lib||
+|samples||
+|sdk||
+|server||
+|tools||
+|util||
+| ...|그 외 용도를 잘 설명하는 단어|
