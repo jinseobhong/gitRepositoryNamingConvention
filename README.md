@@ -26,7 +26,7 @@
 
 [개발 환경(Development enviroment)](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
 
-|이름|종류|
+|이름(Name)|설명(Description)|
 |---|---|
 |angular||
 |cpp||
@@ -35,7 +35,7 @@
 |javascript||
 |nodejs||
 |windows||
-| ...|그 외 개발 환경 잘 설명하는 단어|
+|...|그 외 개발 환경 잘 설명하는 단어|
 
 ### 용도(Purpose)
 
@@ -43,12 +43,12 @@
 
 [용도(Purpose)](https://docs.google.com/spreadsheets/d/14wVUWpTwmrm8KP6_1y41gWszT3BQvnHFi5rVdNN7NqY/edit?usp=sharing)
 
-| 이름(Name) | 설명(Description)   |
-| --- | --- |
+|이름(Name)|설명(Description)|
+|---|---|
 |cli||
 |client||
 |core||
-|documents|
+|documents||
 |extention||
 |gui||
 |interface||
@@ -58,4 +58,4 @@
 |server||
 |tools||
 |util||
-| ...|그 외 용도를 잘 설명하는 단어|
+|...|그 외 용도를 잘 설명하는 단어|
