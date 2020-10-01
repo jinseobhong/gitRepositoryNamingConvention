@@ -31,19 +31,4 @@
 
 이 Keyword는 프로젝트가 어떠한 용도로 사용되는 지를 나타내는 Keyword입니다.
 
-| 용도(Purpose) | 설명(description)   |
-| --- | --- |
-| lib | 라이브러리 |
-| server | 서버 |
-| client | 클라이언트 |
-| core | 핵심 기능 |
-| extention | 확장 기능 |
-| sdk | Software Development Kit |
-| interface | interface |
-| cli | command-line user interface |
-| gui | graphical user interface |
-| util | 도구들 |
-| tools | 도구들 |
-| samples | 샘플 코드 |
-| documents | 문서 |
-| ...|그 외 용도를 잘 설명하는 단어|
+[용도(Purpose)](https://docs.google.com/spreadsheets/d/14wVUWpTwmrm8KP6_1y41gWszT3BQvnHFi5rVdNN7NqY/edit?usp=sharing)
