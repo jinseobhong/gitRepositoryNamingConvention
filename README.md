@@ -26,7 +26,8 @@
 
 [개발 환경(Development enviroment)](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
 
-|이름	|종류|
+|이름|종류|
+|---|---|
 |angular||
 |cpp||
 |dotnet||
