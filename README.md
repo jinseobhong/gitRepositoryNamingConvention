@@ -7,12 +7,8 @@
 1. Git 저장소 이름에 사용되는 Keyword는 의미론(Sementic)적으로 작성합니다.
 2. Git 저장소 이름에 사용되는 Keyword의 표기는 카멜(Camel) 표기법을 사용합니다.
 3. Git 저장소 이름에 사용되는 Keyword 간의 구분은 '하이픈(-)'을 사용합니다.
-3. Git 저장소 이름 규칙(Naming convention)은 Proejct name-Project service-Development environment의 형태로 제안합니다.
+3. Git 저장소 이름 규칙(Naming convention)은 Proejct name-Project development enviroment-Project purpose 의 형태로 제안합니다.
 4. Git 저장소 이름 규칙은 git repository라는 것을 나타내기 위해 .git으로 마무리합니다.
-  1. Git 저장소 이름 규칙의 시나리오 예는 다음과 같습니다
-    - 이 저장소는 
-    
-    A git repository was created using nodejs for a website.
 
 ### 이름(Name)
 
@@ -22,12 +18,13 @@
   - http://domain.com ➔ domain.com
   - http://sub.domain.com ➔ sub.domain.com
 
-### 개발 환경
+### 개발 환경(development enviroment)
 
 이 Keyword는 프로젝트의 개발 환경을 나타내는 Keyword입니다.
-- 개발 환경은 언어, 사용된 개발 도구, 특정 개발 환경을 포함합니다.
+- 개발 환경은 언어, 사용된 개발 도구, 운영 체제 등을 포함합니다.
+- 특정 개발 환경에서만 프로젝트가 작동되는 경우 그 Keyword를 우선적으로 작성합니다.
 
-| 개발환경(development enviroment) | 설명(description)   |
+| 개발 환경(development enviroment) | 설명(description)   |
 | --- | --- |
 | nodejs | nodejs 어플리케이션 |
 | angular | Angular 어플리케이션 |
