@@ -26,6 +26,14 @@
 
 [개발 환경(Development enviroment)](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
 
+|이름	|종류|
+|angular	|Framework|
+|cpp	C++ |language|
+|dotnet	|Framework|
+|java	|language|
+|javascript	|Framework|
+|nodejs|	Framework|
+|windows	|Operating System|
 
 ### 용도(Purpose)
 
