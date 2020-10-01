@@ -24,6 +24,7 @@
 - 개발 환경은 언어, 사용된 개발 도구, 운영 체제 등을 포함합니다.
 - 특정 개발 환경에서만 프로젝트가 작동되는 경우 그 Keyword를 우선적으로 작성합니다.
 
+[gitRepositoryNamingConvention](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
 | 개발 환경(development enviroment) | 설명(description)   |
 | --- | --- |
 | nodejs | nodejs 어플리케이션 |
