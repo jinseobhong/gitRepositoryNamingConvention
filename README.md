@@ -24,8 +24,6 @@
 - 개발 환경은 언어, 사용된 개발 도구, 운영 체제 등을 포함합니다.
 - 특정 개발 환경에서만 프로젝트가 작동되는 경우 그 Keyword를 우선적으로 작성합니다.
 
-[개발 환경(Development enviroment)](https://docs.google.com/spreadsheets/d/1hV5yFamunIxl8XgX0xQXBUziWIqdRslpjSdJql-uBlg/edit?usp=sharing)
-
 |이름(Name)|설명(Description)|
 |---|---|
 |angular||
@@ -41,15 +39,15 @@
 
 이 Keyword는 프로젝트가 어떠한 용도로 사용되는 지를 나타내는 Keyword입니다.
 
-[용도(Purpose)](https://docs.google.com/spreadsheets/d/14wVUWpTwmrm8KP6_1y41gWszT3BQvnHFi5rVdNN7NqY/edit?usp=sharing)
-
 |이름(Name)|설명(Description)|
 |---|---|
+|backend||
 |cli||
 |client||
 |core||
 |documents||
 |extention||
+|frontend||
 |gui||
 |interface||
 |lib||
