@@ -9,7 +9,7 @@
 3. Git 저장소 이름 규칙(Naming convention)에 사용되는 고유 명사는 대문자로 표기합니다.
 4. Git 저장소 이름에 사용되는 Keyword 간의 구분은 '하이픈(-)'을 사용합니다.
 5. Git 저장소 이름 규칙(Naming convention)은 Proejct name-Project development enviroment-Project purpose 의 형태로 제안합니다.
-6. Git 저장소 이름 규칙은 git repository라는 것을 나타내기 위해 git.으로 시작합니다.
+6. (선택 사항) Git 저장소 이름 규칙은 git repository라는 것을 나타내기 위해 git.으로 시작합니다.
 
 ### 이름(Name)
 
